@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails MyFitnessDemo: production" uuid="64945130-ad83-4205-9c19-002531499582">
+      <user-name>MyFitnessDemo</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dff3dfecdfe3dffedfe4dfefdff9dff9dfeedfefdfe7dfe5dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails MyFitnessDemo: test" uuid="b7952327-fe95-4ebc-bf4b-0945deccf573">
+      <user-name>admin</user-name>
+    </data-source>
+    <data-source name="Rails MyFitnessDemo: development" uuid="3a9cf8f9-ecf0-4ea5-85c8-ec5344ba850a">
+      <user-name>postgres</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <schema-pattern>MyFitnessDemo_development.pg_catalog MyFitnessDemo_development.public</schema-pattern>
+      <default-schemas>MyFitnessDemo_development.public</default-schemas>
+    </data-source>
+  </component>
+</project>
